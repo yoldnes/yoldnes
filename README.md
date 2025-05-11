@@ -19,16 +19,21 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 👋 About Me  
 
-###
+I’m a **Mobile App Developer** with **4+ years of experience** building robust, high-performance solutions for large-scale enterprises, particularly in **finance, banking, and service industries**. My expertise lies in crafting secure and efficient mobile applications tailored to industry-specific needs.  
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+**🛠 Core Skills:**  
+- **Languages:** Kotlin, Java  
+- **Focus:** Clean architecture, performance optimization, and security in mobile development  
+- **Domain Knowledge:** Fintech & banking solutions  
 
-###
+**🚀 Always Learning:**  
+- **Android Modern Tools:** Jetpack Compose  
+- **CS Fundamentals:** Algorithm analysis & data structures  
+- **Data-Driven Development:** Integrating data analysis into mobile solutions  
 
-<h3 align="left">🛠 Language and tools</h3>
-
+Passionate about solving complex problems and delivering scalable solutions—let’s connect and collaborate!  
 ###
 
 <div align="left">
